@@ -13,15 +13,28 @@
 
 ## Installation & Usage
   First, clone the repo.  
-  `git clone https://github.com/Atlas7005/usernameGenerator`  
+  ```bash
+  git clone https://github.com/Atlas7005/usernameGenerator
+  ```
 
   Then, install the requirements.  
-  Windows: `py -m pip install -r requirements.txt`  
-  Linux/macOS: `python -m pip install -r requirements.txt`  
-
+  Windows:
+  ```bash
+  py -m pip install -r requirements.txt
+  ```
+  Linux/macOS:
+  ```bash
+  python -m pip install -r requirements.txt
+  ```
   When that is done, all you need to do is run the thing.  
-  Windows: `py usernameGen.py <amount> <length>`  
-  Linux/macOS: `python usernameGen.py <amount> <length>`
+  Windows:
+  ```bash
+  py usernameGen.py <amount> <length>
+  ```
+  Linux/macOS:
+  ```bash
+  python usernameGen.py <amount> <length>
+  ```
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
