@@ -4,10 +4,12 @@
   Tested and made on Windows 10 - Python 3.8.2 and Python 3.9.2.
 
 ## Features
-    - Saves generated usernames to `names.txt` in same directory.
-    - Command Line Interface - Specify the amount of usernames you wanna generate, as well as the length of those usernames. Ex: `python usernameGen.py 50 10`: This generates 50, 10 character long usernames.
-    - Created by a complete newbie.
-    - May or may not give you a free cake.
+  - Saves generated usernames to `names.txt` in same directory.
+  - Command Line Interface - Specify the amount of usernames you wanna generate, as well as the length of those usernames. Ex: `python usernameGen.py 50 10`: This generates 50, 10 character long usernames.
+  - Shows how many usernames generated when finished.
+  - Shows how long it took to generate the usernames when finished.
+  - Created by a complete newbie.
+  - May or may not give you a free cake.
 
 ## Installation & Usage
   First, clone the repo.  
