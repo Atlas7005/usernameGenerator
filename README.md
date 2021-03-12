@@ -11,7 +11,7 @@ Tested and made on Windows 10 - Python 3.8.2 and Python 3.9.2.
 
 ## Installation & Usage
 First, clone the repo.  
-`git clone https://github.com/Atlas7005/usernameGen`  
+`git clone https://github.com/Atlas7005/usernameGenerator`  
 
 Then, install the requirements.  
 Windows: `py -m pip install -r requirements.txt`  
